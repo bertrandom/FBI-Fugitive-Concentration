@@ -38,7 +38,7 @@
         <h2>Why</h2>
         <p>This is my entry to <a href="http://sunlightlabs.com/contests/appsforamerica2/">Sunlight Labs Apps for America 2 contest</a>. It uses information extracted from the <a href="http://www.data.gov/details/117">FBI Content Widget on data.gov</a>.
         <h2>Source code</h2>
-        <p>Coming soon!
+        <p>All the code for this application can be found on <a href="http://github.com/bertrandom/FBI-Fugitive-Concentration/tree">github</a>. It's written in PHP and uses symfony v1.0.20 and dojo v1.3.0 for most of the heavy lifting.
         <h2>Credits</h2>
         <p>Created by <a href="mailto:%62%65%72%74%72%61%6e%64@%66%61%6e.%6e%65%74">Bertrand Fan</a>.
     </div>
