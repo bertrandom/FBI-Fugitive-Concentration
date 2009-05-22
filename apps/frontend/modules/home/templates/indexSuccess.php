@@ -41,5 +41,6 @@
         <p>All the code for this application can be found on <a href="http://github.com/bertrandom/FBI-Fugitive-Concentration/tree">github</a>. It's written in PHP and uses symfony v1.0.20 and dojo v1.3.0 for most of the heavy lifting.
         <h2>Credits</h2>
         <p>Created by <a href="mailto:%62%65%72%74%72%61%6e%64@%66%61%6e.%6e%65%74">Bertrand Fan</a>.
+        <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/fbifugitiveconcentration/embed.js"></script><noscript><a href="http://fbifugitiveconcentration.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
 </div>
