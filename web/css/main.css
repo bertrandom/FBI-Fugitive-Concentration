@@ -1,0 +1,23 @@
+body
+{
+  background: #cae9ff;
+}
+
+html {
+  background: #cae9ff;
+}
+
+#custom-doc { width:62.31em;*width:60.81em;min-width:810px; margin:auto; text-align:left; }
+
+h2 {
+    font-size:167%;
+    padding: 10px;
+}
+
+p {
+    padding: 10px;
+}
+
+li {
+    padding-left: 10px;  
+}

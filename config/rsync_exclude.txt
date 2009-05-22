@@ -1,0 +1,5 @@
+.svn
+/web/uploads/*
+/cache/*
+/log/*
+/config/config.php
